@@ -1,5 +1,11 @@
 # Data analysis within the open_eGo project
 
+## Installation
+
+In order to keep up-to-date with data within the repository you need to install `git lfs` on your system. Installation instruction can be found [here](https://github.com/git-lfs/git-lfs/wiki/Installation#ubuntu).
+
+
+
 ## LICENSE
 
 Copyright (C) 2017 openego project group
